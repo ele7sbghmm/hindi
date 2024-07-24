@@ -415,7 +415,6 @@ zyada
 - yahi
 - yani
 - ye
-- zinda
-- zindagi
-- zyada
-- 
+- `zinda   `
+- `zindagi `
+- `zyada   `
